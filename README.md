@@ -67,7 +67,7 @@ I did the following Data cleaning and transformation:
  - Extract the relevant data needed to address the problem statement
  - Data Cleaning and PreprocessingExploratory Data Analysis (EDA)
 
-**steps to transformation**
+**Steps to Transformation**
 - Identify which datasets will be required to answer the client’s business question
 - Delete null values
 - Rename column header
