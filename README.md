@@ -36,9 +36,9 @@ data.
 
 
 ### Insights
-![Social Buzz insight 1](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/60a2adbe-7eb6-4711-a1a1-c8b024d8cecb)
+![image](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/71d9a806-0eee-4084-a523-cdfd3f475759)
 
-![Social Buzz insight 2](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/fbbf638b-2316-42ad-bda3-c0331450543f)
+![image](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/95e18132-37e8-4148-ac6d-b20aefb81ed8)
 
 ### Data Sources
 
