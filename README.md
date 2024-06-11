@@ -101,7 +101,7 @@ Based on the data analysis, here are some recommendations and next steps for Soc
 **A/B Testing:** Conduct A/B testing to compare different content types, formats, and posting times to optimize for user engagement.
 
 **Sentiment Analysis Expansion:** Expand sentiment analysis to other categories to better understand user reactions more comprehensively.
-![image](https://github.com/Aliyu-Kuburat/Social-Buzz/assets/156312358/67216283-643a-4843-8721-c655022bc461)
+
 
 
 ### Next Steps:
